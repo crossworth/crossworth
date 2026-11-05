@@ -1,6 +1,5 @@
-### Hi
+### Pedro Henrique
 
-404 - Bio not found
+I like figuring out how things work — and building tools to make them useful.
 
-
-![](https://github-readme-stats.vercel.app/api?username=crossworth&count_private=true&show_icons=true)
+Code here. Notes and longer explanations at [pedro.dev.br](https://pedro.dev.br).
